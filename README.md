@@ -3,16 +3,16 @@
 ---
 [![](https://img.shields.io/badge/Francine_Cardoso-blue?style=flat-square&labelColor=blue&logo=linkedin)](https://www.linkedin.com/in/francinecardoso/)
 ![](https://img.shields.io/github/followers/francinecardoso?&label=Follow&style=flat-square&logo=github)
-<img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=francinecardoso&show_icons=true&theme=synthwave" />   
+<img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=francinecardoso&show_icons=true&theme=synthwave" width="200"/>  
+
 *Me chamo Francine, mas pode me chamar de Fran.*  
 *Graduada em Engenharia da Computação pela [Faculdade SATC](https://www.satc.edu.br).* <img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30">     
 *Professora de disciplinas computacionais no [Colégio SATC](https://www.satc.edu.br).* <img src="https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="30">   
 *Desenvolvedora de software em uma healthtech.* 
 </br> 
 
-<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> **Um pouco sobre mim...**      
-</br>
-<img align='right' src="https://media.giphy.com/media/VJBOz97TCRftgQWbMJ/giphy.gif" width="250">  
+<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> **Um pouco sobre mim...**   
+<img align='right' src="https://media.giphy.com/media/VJBOz97TCRftgQWbMJ/giphy.gif" width="200">  
 
 ```javascript
 const fran = {
