@@ -7,8 +7,9 @@
 
 *Me chamo Francine, mas pode me chamar de Fran.*  
 *Graduada em Engenharia da Computação pela [Faculdade SATC](https://www.satc.edu.br).* <img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30">     
-*Professora de disciplinas computacionais no [Colégio SATC](https://www.satc.edu.br).* <img src="https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="30">   
-*Desenvolvedora de software em uma healthtech.* 
+*Professora de disciplinas computacionais no [Colégio SATC](https://www.satc.edu.br).* <img src="https://media.giphy.com/media/uWzYKSRpgkWKfoSbmX/giphy.gif" width="30">   
+
+*Desenvolvedora de software em uma healthtech.* <img src="https://media.giphy.com/media/Wozs3OfYBYobhLKjxi/giphy.gif" width="23">
 </br> 
 
 <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> **Um pouco sobre mim...**   
