@@ -1,6 +1,6 @@
 
-### Olá, bem-vindos! <img src="https://media.giphy.com/media/dXR4F5BlIM7E1wTHsA/giphy.gif" width="50" >
----
+# Olá, bem-vindos! <img src="https://media.giphy.com/media/dXR4F5BlIM7E1wTHsA/giphy.gif" width="50" >
+
 [![](https://img.shields.io/badge/Francine_Cardoso-blue?style=flat-square&labelColor=blue&logo=linkedin)](https://www.linkedin.com/in/francinecardoso/)
 ![](https://img.shields.io/github/followers/francinecardoso?&label=Follow&style=flat-square&logo=github)
 <img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=francinecardoso&show_icons=true&theme=synthwave" width="200"/>  
@@ -8,7 +8,6 @@
 *Me chamo Francine, mas pode me chamar de Fran.*  
 *Graduada em Engenharia da Computação pela [Faculdade SATC](https://www.satc.edu.br).* <img src="https://media.giphy.com/media/h4x6RMBru1Mx7zLWko/giphy.gif" width="30">     
 *Professora de disciplinas computacionais no [Colégio SATC](https://www.satc.edu.br).* <img src="https://media.giphy.com/media/uWzYKSRpgkWKfoSbmX/giphy.gif" width="30">   
-
 *Desenvolvedora de software em uma healthtech.* <img src="https://media.giphy.com/media/Wozs3OfYBYobhLKjxi/giphy.gif" width="23">
 </br> 
 
