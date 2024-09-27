@@ -3,6 +3,8 @@
 
 [![In](https://img.shields.io/badge/Francine_Cardoso-blue?style=flat-square&labelColor=blue&logo=linkedin)](https://www.linkedin.com/in/francinecardoso/) ![Git](https://img.shields.io/github/followers/francinecardoso?&label=Follow&style=flat-square&logo=github)
 
+<br>
+
 <img
     align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=francinecardoso&show_icons=true&theme=radical">
@@ -13,7 +15,7 @@
 
 *Software Engineer at Acrelec & McDonald's.* :fries:
 
-
+<br>
 
 <img
     src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif"
